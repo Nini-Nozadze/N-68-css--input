@@ -1,0 +1,51 @@
+.email{ 
+    width: 315px;
+    height: 45px;
+    border-radius: 10px;
+    background-color: white;
+    border: 1px solid #E0E0E0;
+}
+
+.password{
+    width: 467px;
+    height: 45px;
+    border-radius: 15px;
+    border: 1px solid #ff0000;
+    background-color: #610000;
+}
+
+.password::placeholder{
+    color: #f07272;
+    font-weight: 500;
+    size: 16px;
+}
+
+.numbers{
+    width: 541px;
+    height: 45px;
+    border-radius: 5px;
+    border: 1px solid #A8AB00;
+    background-color: white;
+
+}
+
+.numbers::placeholder{
+    color: #A8AB00;
+    font-weight: 500px;
+    size: 16px;
+}
+
+.text{
+    width: 315px;
+    height: 45px;
+    border-radius: 30px;
+    background-color: #292828;
+    border: 2px solid #F9fE03;
+
+}
+
+.text::placeholder{
+    color: #F9fE03;
+    font-weight: 500;
+    size: 16px;
+}
